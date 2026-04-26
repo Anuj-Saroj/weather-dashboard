@@ -20,7 +20,7 @@ A modern and responsive Weather Dashboard web application that provides real-tim
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **API:** OpenWeatherMap API *(or whichever you used)*
+- **API:** OpenWeatherMap API
 - **Deployment:** Netlify
 
 ---
